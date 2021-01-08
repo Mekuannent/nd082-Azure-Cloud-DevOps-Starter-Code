@@ -1,5 +1,5 @@
 {
-  "type": "Microsoft.Autherization/policyDefinitions",
+  "type": "Microsoft.Authorization/policyDefinitions",
   "name": "deny-resources-with-no-tags",
   "properties": {
     "mode": "all",
