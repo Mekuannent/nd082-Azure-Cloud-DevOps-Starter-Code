@@ -1,6 +1,6 @@
 {
   "type": "Microsoft.Authorization/policyDefinitions",
-  "name": "deny-resources-with-no-tags",
+  "name": "policy-tagging",
   "properties": {
     "mode": "all",
     "displayName": "Deny resources with no tags",
