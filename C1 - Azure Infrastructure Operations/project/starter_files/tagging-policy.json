@@ -1,7 +1,7 @@
 "if": {
     "allOf": [{
             "field": "type",
-            "equals": "Microsoft.Resources/subscriptions/resourceGroups"
+            "equals": "Microsoft.Compute/virtualMachines"
         },
         {
             "field": "tags",
