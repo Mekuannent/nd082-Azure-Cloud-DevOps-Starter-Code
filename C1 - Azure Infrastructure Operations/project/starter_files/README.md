@@ -22,3 +22,6 @@ For this project, you will write a Packer template and a Terraform template to d
 ### Output
 **Your words here**
 
+
+### Note
+az policy definition create --name 'policy-tagging' --display-name 'Deny create if no tags' --description 'Deny the creation of resources that do not have tags.' --rules 'policy-tagging.json' --mode All
