@@ -4,7 +4,7 @@
   "properties": {
     "mode": "all",
     "displayName": "Deny resources with no tags",
-    "desciption": "Deny the creation of resources that do not have tags"
+    "desciption": "Deny the creation of resources that do not have tags",
     "policyRule": {
 	   "if": {
 	        "allOf": [{
